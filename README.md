@@ -77,7 +77,7 @@ Login from the User's login side.
 
 Just provide the Admin's login details, and it will redirect you to the Admin panel.
 
-## 📌 Here's the full documentation for the [[Insurance Management System Project in PHP](https://itsourcecode.com/free-projects/php-project/insurance-management-system-project-in-php-free-download/)]
+## 📌 Here's the full documentation for the [Insurance Management System Project in PHP](https://itsourcecode.com/free-projects/php-project/insurance-management-system-project-in-php-free-download/)
 
 
 
